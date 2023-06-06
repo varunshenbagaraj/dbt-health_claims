@@ -1,5 +1,5 @@
 ## dbt-health_claims
-This repo is to create macros for healthcare data professionals
+This repository is to develop macros for healthcare data professionals
 
 ### Supported warehouses
 >- Databricks
