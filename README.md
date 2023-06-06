@@ -2,7 +2,7 @@
 This repository is to develop macros for healthcare data professionals
 
 ### Supported warehouses
->- Databricks
+- Databricks
 
 ### Macros
 -----
